@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:usu42 - TV Digital
 
-#EXTINF:-1 tvg-name="hls 1" group-title="Películas",hls 1
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="sorprendente" group-title="Películas",sorprendente
+http://rlatinop.com:8880/movie/ermrmsqutt/6WYPqa6YvfHQ/269302.mkv
 
