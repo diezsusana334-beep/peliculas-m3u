@@ -1,9 +1,6 @@
 #EXTM3U
 #PLAYLIST:usu51 - TV Digital
 
-#EXTINF:-1 tvg-name="hls 1" group-title="Películas",hls 1
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-
-#EXTINF:15 tvg-name="Sintel" group-title="Fantasía",Sintel
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:-1 tvg-name="conejo" group-title="Películas",conejo
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
